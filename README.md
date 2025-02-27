@@ -49,10 +49,10 @@ cd portfolio
 Simply open the `index.html` file in your preferred browser:
 ```bash
 # For Mac/Linux:
-open portfolio/index.html
+open index.html
 
 # For Windows:
-start portfolio/index.html
+start index.html
 ```
 
 Or, manually open the file by double-clicking `index.html`.
