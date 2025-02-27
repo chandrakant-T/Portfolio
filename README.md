@@ -36,12 +36,12 @@ Follow these simple steps to clone, customize, and run the portfolio locally:
 
 Use the following command to clone the repository to your local machine:
 ```bash
-git clone https://github.com/chandrakant-T/portfolio-website.git
+git clone https://github.com/chandrakant-T/portfolio.git
 ```
 
 ### **2. Navigate into the project directory**
 ```bash
-cd portfolio-website
+cd portfolio
 ```
 
 ### **3. Open the project locally**
@@ -49,10 +49,10 @@ cd portfolio-website
 Simply open the `index.html` file in your preferred browser:
 ```bash
 # For Mac/Linux:
-open index.html
+open portfolio/index.html
 
 # For Windows:
-start index.html
+start portfolio/index.html
 ```
 
 Or, manually open the file by double-clicking `index.html`.
