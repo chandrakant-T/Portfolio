@@ -4,7 +4,7 @@ Welcome to my **Personal Portfolio Website** — a minimalistic and clean design
 
 ## 🌐 **Live Demo**
 
-Explore the live version of my portfolio here: [Portfolio Website](https://chandrakant-T.github.io/)
+Explore the live version of my portfolio here: [Portfolio Website](https://chandrakant-t.github.io/Portfolio/)
 
 ---
 
