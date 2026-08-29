@@ -4,7 +4,7 @@ Welcome to my **Personal Portfolio Website** — a minimalistic and clean design
 
 ## 🌐 **Live Demo**
 
-Explore the live version of my portfolio here: [Portfolio Website](https://chandrakant-t.github.io/Portfolio/)
+Explore the live version of my portfolio here: [Portfolio Website](https://portfolio-nine-azure-pu24fylliq.vercel.app/)
 
 ---
 
@@ -24,7 +24,7 @@ Explore the live version of my portfolio here: [Portfolio Website](https://chand
 - **HTML5** — Structure and content
 - **CSS3** — Styling and layout
 - **JavaScript** — Interactivity and animations
-- **GitHub Pages** — Deployment and hosting
+- **Vercel** — Deployment and hosting
 
 ---
 
@@ -64,8 +64,8 @@ Or, manually open the file by double-clicking `index.html`.
 You can easily customize the content and design of the portfolio by editing the following files:
 
 - **Content**: Modify the text in `index.html`
-- **Styling**: Adjust colors, fonts, and animations in `style.css`
-- **Animations/Interactions**: Update JavaScript functions in `script.js`
+- **Styling**: Adjust colors, fonts, and animations in `index.html`
+- **Animations/Interactions**: Update JavaScript functions in `index.html`
 - **Projects/Links**: Add or remove projects by editing the relevant section in `index.html`
 
 ---
